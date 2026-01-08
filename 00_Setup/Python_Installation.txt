@@ -1,0 +1,6 @@
+Python Version: 3.13.7 (64-bit)
+Installed From: python.org
+Installed For: All users
+PATH Added: Yes
+pip Version: 25.2
+Date: 07-01-2026
