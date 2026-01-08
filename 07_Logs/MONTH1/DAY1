@@ -1,0 +1,41 @@
+Day: 01
+Focus: Python Basics + Environment Setup
+
+Work Done:
+- Installed VS Code
+- Installed Python 3.13.7
+- Installed Git and connected GitHub
+- Created structured workspace on D drive
+- Added and executed Day 1 Python programs in VS Code
+- Pushed Day 1 code to GitHub
+
+Programs Added:
+- ADD.py
+- DIVISION.py
+- PRODUCT.py
+- SUB.py
+- whole_square.py
+
+Understanding Level:
+- Basic Python syntax is clear
+- print(), variables, input(), and arithmetic are understandable
+
+Difficulties Faced:
+- VS Code file vs folder confusion
+- GitHub push and identity setup issues
+- File extension (.py) handling initially unclear
+
+How I Resolved Them:
+- Understood difference between files and folders
+- Learned Git commit–push workflow
+- Verified changes using git status
+
+Key Takeaways:
+- GitHub only reflects committed changes
+- Empty folders are not tracked by Git
+- Proper structure matters from Day 1
+
+Next Day Plan:
+- Write fresh code directly in VS Code
+- Cover variables in depth and data types
+- Start maintaining notes alongside code
