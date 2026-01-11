@@ -1,0 +1,38 @@
+Day: 5 
+Focus:  LISTS
+
+Work Done:
+ 
+
+Programs Added: 
+1) max_min
+2) find_sum
+3) create_list
+4) count_even_odd_num
+5) remove_duplicate
+6) reverse
+7) search_elements
+8) sorting
+9) spliting a list
+10) summary 
+ 
+
+Understanding Level:
+ - how lists and initialized and declared 
+ - how to update a list 
+Difficulties Faced:
+- Python file showed “No such file or directory” error in VS Code terminal despite correct code.
+- Folder name contained a space, which PowerShell misinterpreted during manual execution.
+ 
+How I Resolved Them:
+- Renamed folder using snake_case; IDEs handle paths automatically, terminals require exact paths.
+ 
+Key Takeaways: 
+- if you want your function to return two outputs use - 'return output1, output2'
+
+
+Next Day Plan:
+ 
+
+
+total program count = 45
